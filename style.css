@@ -1,9 +1,8 @@
-
 * {
     justify-content: center;
     align-content: center;
     margin: auto;
-    max-width: 2000px;
+    max-width: 1050px;
     
 }
 
@@ -54,6 +53,7 @@ div.header, div.instructions{
 	width: 15%;
     height: 60px;
     background:lavender;
+    float: left;
 }
 
 .gems{
@@ -78,5 +78,6 @@ div.header, div.instructions{
 }
 
 #yellow{
-	color:#c2a90f;
+    color:#c2a90f;
+    float: left;
 }
